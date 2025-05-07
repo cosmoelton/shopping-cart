@@ -1,0 +1,35 @@
+/* Fonte Montserrat */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root{
+    /* Paleta de cores */
+    --color-01: #f9f9f9;
+    --color-02: #e0e0e0e0;
+    --color-03: #b5b5b5b5;
+    --color-04: #85858585;
+    --color-05: #000000;
+}
+
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html{
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    scroll-behavior: smooth;
+
+}
+
+body{
+    background-color: var (--color-02);
+
+
+
+
+}
