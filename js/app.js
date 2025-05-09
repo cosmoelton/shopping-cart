@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-alert("ok");
+// alert("ok");
 =======
 
 /*
@@ -84,4 +83,3 @@ function listProducts(productList) {
 
 // getProducts();
 // listProducts();
->>>>>>> 1a00b1f (Projeto com api)
